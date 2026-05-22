@@ -49,3 +49,5 @@ lib/
 │   ├── search/    # Поиск мест
 │   └── settings/  # Настройки
 └── main.dart
+
+Ibrahim DIas Baisal
