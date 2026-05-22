@@ -50,4 +50,4 @@ lib/
 │   └── settings/  # Настройки
 └── main.dart
 
-Ibrahim DIas Baisal
+Baisal Ibrahim Dias
